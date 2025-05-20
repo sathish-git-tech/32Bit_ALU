@@ -1,4 +1,4 @@
-a# 32Bit_ALU Simulation
+#  32Bit_ALU Simulation
 
 # Aim: 
 
@@ -34,7 +34,7 @@ A Blank Document opens up into which the following source code can be typed down
 
 ## Source Code – Using Case Statement :
 
-##Verilog Code
+## Verilog Code
 ```
 `timescale 1ns / 1ns
 module alu_32bit_case(y,a,b,f);
@@ -153,7 +153,7 @@ Inputs: Supplied are Verilog design and test bench codes
 
 Outputs: Compiled database created in mapped library if successful, generates report else error reported in log file 
 
-## 	Steps for compilation: 
+## 	Steps for compilation: 
 
 1. Create work/library directory (most of the latest simulation tools creates automatically)
    
